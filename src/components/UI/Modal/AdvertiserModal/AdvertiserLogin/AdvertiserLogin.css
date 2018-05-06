@@ -1,0 +1,9 @@
+.smallSignup{
+
+    color:#00C853 ;
+}
+
+.smallSignup:hover{
+    color: #E57373;
+    cursor: pointer;
+}

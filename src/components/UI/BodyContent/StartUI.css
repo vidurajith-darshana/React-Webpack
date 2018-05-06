@@ -1,0 +1,22 @@
+.MainDiv{
+    background-color: white;
+    height: 550px;
+
+}
+
+#emailText{
+    width: 100px;
+}
+
+.divBody{
+    /*background-color: beige;*/
+    padding: 8%;
+}
+
+@media (max-width: 400px){
+
+}
+
+.input{
+    width: 30px;
+}

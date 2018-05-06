@@ -1,0 +1,16 @@
+.form-control{
+    height: 564px;
+}
+
+.small{
+
+    color:white;
+}
+.smallSignUp{
+    color:#00C853 ;
+}
+
+.smallSignUp:hover{
+    color: #E57373;
+    cursor: pointer;
+}
